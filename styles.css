@@ -1,3 +1,16 @@
 body {
-    background-color: black;
+    background-color: rgb(36, 36, 36);
+}
+
+h1, h2, p{
+    color: aliceblue;
+    font-size: 50px;
+}
+
+body{
+    text-align: center;
+}
+
+main{
+    padding: 4%;
 }
