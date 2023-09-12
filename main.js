@@ -6,4 +6,4 @@ function sumar(a , b){
     console.log(suma) 
 }
 
-console.log(sumar(a,b))
+sumar(a,b)
